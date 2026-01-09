@@ -1,4 +1,5 @@
 *Java Spring Boot CI/CD Pipeline
+
 *This project is a simple Java Spring Boot REST API that returns a message, and it is prepared for CI/CD and containerized using Docker.
 
 * A simple Java 21 Spring Boot REST API developed as part of CI/CD and cloud training.
